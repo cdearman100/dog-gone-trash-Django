@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Database files
+*.sqlite3
+
+# Django secret key and settings
+.env
+
+# Static and media folders (optional if files are generated dynamically)
+static/
+media/
+
+# Virtual environment
+venv/
+env/
+*.egg-info/
+
+# IDE and editor settings
+.idea/
+.vscode/
+
+# Log files
+*.log
